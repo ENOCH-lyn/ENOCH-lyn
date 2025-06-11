@@ -1,8 +1,8 @@
 ## About me
 
 <table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=ENOCH-lyn&include_all_commits=true&hide_border=true" width="400"></td></tr>
-<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ENOCH-lyn" width="400" /></td></tr>
+<!--<tr><td><img src="https://github-readme-stats.vercel.app/api?username=ENOCH-lyn&include_all_commits=true&hide_border=true" width="400"></td></tr>-->
+<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ENOCH-lyn" width="600" /></td></tr>
 </table>
 
 > ID：ENOCH | ENOCH-lyn
@@ -15,6 +15,7 @@
 - 在读网络安全大学生（2024级）
 - 音游/gal玩家
 - 欢迎访问博客：[ENOCH-lyn Blog](https://enoch.host/)
+- 邮箱enoch@enoch.host
 
 ## Project
 
