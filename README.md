@@ -2,7 +2,7 @@
 
 <table align='right'>
 <!--<tr><td><img src="https://github-readme-stats.vercel.app/api?username=ENOCH-lyn&include_all_commits=true&hide_border=true" width="400"></td></tr>-->
-<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ENOCH-lyn" width="600" /></td></tr>
+<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ENOCH-lyn" width="400" /></td></tr>
 </table>
 
 > ID：ENOCH | ENOCH-lyn
