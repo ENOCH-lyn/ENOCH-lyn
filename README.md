@@ -25,7 +25,9 @@
 
 [YNU网络安全课程资料](https://github.com/ENOCH-lyn/YNU-Network-security-Lessons)
 
-[DirCat ](https://github.com/ENOCH-lyn/DirCat)
+[DirCat：快捷复制文件夹内容 ](https://github.com/ENOCH-lyn/DirCat)
+
+[CloudEver新成员欢迎海报生成器](https://github.com/ENOCH-lyn/CloudEver-New-Member-Poster-Generator)
 
 > 待续
 
