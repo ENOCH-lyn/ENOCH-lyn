@@ -14,6 +14,7 @@
 - CTFer
 - 在读网络安全大学生（2024级）
 - 音游/gal玩家
+- ~~vibe coding~~
 - 欢迎访问博客：[ENOCH-lyn Blog](https://enoch.host/)
 - 邮箱enoch@enoch.host
 
@@ -28,6 +29,8 @@
 [DirCat：快捷复制文件夹内容 ](https://github.com/ENOCH-lyn/DirCat)
 
 [CloudEver新成员欢迎海报生成器](https://github.com/ENOCH-lyn/CloudEver-New-Member-Poster-Generator)
+
+[CLoudEver积分管理系统](https://github.com/ENOCH-lyn/CloudEver-ScoreBoard)
 
 > 待续
 
